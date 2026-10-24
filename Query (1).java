@@ -1,4 +1,4 @@
-//Arber Aliu, CS2210, November 19, Assignment 4
+
 //This Query class builds a BSTOrderedDictionary from an input file, then enters a loop where it reads commands from the user to look up, modify, or list keys and their multimedia items. Depending on what sort of content type, it either prints text or plays the sound, image, or HTML file.
 
 import java.io.BufferedReader;
