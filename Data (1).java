@@ -1,4 +1,4 @@
-//Arber Aliu, CS2210, November 19, Assignment 4
+
 //This Data class stores a key name and a list of related multimedia items, starting with an empty list when created. It adds new MultimediaItem objects and provides the methods to retrieve the name and the media list.
 
 
