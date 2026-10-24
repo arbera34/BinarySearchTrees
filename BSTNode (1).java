@@ -1,4 +1,4 @@
-//Arber Aliu, CS2210, November 19, Assignment 4
+
 //This BSTNode class represents a single node in a binary search tree, where it stores a Data object and the links to its parent and the left and right child. It provides constructors, getter/setter methods, and a helper method to check whether the node is a leaf.
 
 public class BSTNode {
