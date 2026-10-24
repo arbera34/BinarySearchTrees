@@ -1,4 +1,4 @@
-//Arber Aliu, CS2210, November 19, Assignment 4
+
 // This code stores a piece of multimedia information using two attributes: a content string and a type number. It also includes a constructor to set all of these values and it has two getter methods to retrieve them.
 
 
