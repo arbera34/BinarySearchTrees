@@ -1,4 +1,4 @@
-//Arber Aliu, CS2210, November 19, Assignment 4
+
 //This BSTOrderedDictionary class stores pairs inside a binary search tree, where the keys are in alphabetical order. 
 import java.util.ArrayList;
 
